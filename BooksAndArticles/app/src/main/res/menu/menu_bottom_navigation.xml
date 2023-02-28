@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Bestselling Books"
+        android:id="@+id/nav_books"
+        android:enabled="true"
+        android:icon="@drawable/baseline_menu_book_24"
+        />
+    <item android:title="Article Search"
+        android:id="@+id/nav_articles"
+        android:enabled="true"
+        android:icon="@drawable/baseline_newspaper_24"
+        />
+</menu>
